@@ -1,0 +1,8 @@
+2025-07-31 09:56:28,804 → INFO: Access granted.
+2025-07-31 09:56:28,804 → INFO: Accessed file: passwords
+2025-07-31 09:57:25,313 → WARNING: Wrong password. Attempts remaining: 2
+2025-07-31 09:57:27,285 → WARNING: Wrong password. Attempts remaining: 1
+2025-07-31 09:57:29,664 → WARNING: Wrong password. Attempts remaining: 0
+2025-07-31 09:57:29,665 → WARNING: Vault locked due to failed attempts.
+2025-07-31 09:58:16,953 → WARNING: Attempt to access locked vault. 11h 59m 12s remaining.
+2025-07-31 10:04:51,027 → WARNING: Attempt to access locked vault. 11h 52m 38s remaining.
