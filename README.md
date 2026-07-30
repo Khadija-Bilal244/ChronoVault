@@ -26,7 +26,7 @@ ChronoVault is a simple yet effective Python-based file vault that protects your
 | 📝 Event logging | Access attempts logged to `vault_access` |
 | 📦 Lightweight | No external dependencies |
 
-## 🚀 How It Works
+## How It Works
 
 1. Run the script.
 2. Enter the correct password (`heybaby` by default).
