@@ -1,6 +1,6 @@
 <div align="center">
 
-# ChronoVault
+# ChronoVault 🔐
 
 ### A simple, self-defending Python file vault
 
@@ -12,21 +12,21 @@
 
 ---
 
-## Overview
+## 📖 Overview
 
 ChronoVault is a simple yet effective Python-based file vault that protects your directory contents. After **3 failed password attempts**, the vault locks itself for **12 hours**, preventing any further access until the lock expires.
 
-## Features
+## ✨ Features
 
 | Feature | Description |
 |---|---|
-| Password-protected access | Only the correct password unlocks the vault |
-| 12-hour lockout | Triggers automatically after 3 failed attempts |
-| Auto-display of files | Shows all directory contents (excluding the script) once unlocked |
-| Event logging | Access attempts logged to `vault_access` |
-| Lightweight | No external dependencies |
+| 🔐 Password-protected access | Only the correct password unlocks the vault |
+| ⏳ 12-hour lockout | Triggers automatically after 3 failed attempts |
+| 📁 Auto-display of files | Shows all directory contents (excluding the script) once unlocked |
+| 📝 Event logging | Access attempts logged to `vault_access` |
+| 📦 Lightweight | No external dependencies |
 
-## How It Works
+## 🚀 How It Works
 
 1. Run the script.
 2. Enter the correct password (`heybaby` by default).
@@ -37,7 +37,7 @@ ChronoVault is a simple yet effective Python-based file vault that protects your
 Attempt 1 ❌  →  Attempt 2 ❌  →  Attempt 3 ❌  →  🔒 Locked for 12 hours
 ```
 
-## Files
+## 📄 Files
 
 | File | Purpose |
 |---|---|
@@ -45,7 +45,7 @@ Attempt 1 ❌  →  Attempt 2 ❌  →  Attempt 3 ❌  →  🔒 Locked for 12 h
 | `vault.lock` | Lock file (auto-created after failed attempts) |
 | `vault_access` | Log of access events |
 
-## Requirements
+## 🛠 Requirements
 
 - Python 3.x
 - `os` module (standard library)
@@ -57,16 +57,16 @@ No installation needed beyond a standard Python 3 environment — just run the s
 python vault.py
 ```
 
-## Note
+## 📌 Note
 
 For educational purposes only. Modify and expand it to suit your needs.
 
-## License
+## 📜 License
 
 MIT License
 
 ---
 
 <div align="center">
-<sub>Built by Khadija Bilal.</sub>
+<h3>Built by Khadija Bilal.</h3>
 </div>
